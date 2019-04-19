@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FINT Status</string>
+    <string name="fint_api_status_base_url">https://api-status.fintlabs.no</string>
+</resources>
